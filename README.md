@@ -2,9 +2,7 @@
 Githubの練習用のリポジトリ
 
 ## issueテンプレートの練習
- 
 ### issueテンプレートの追加
-
 #### repositoryにフォルダやファイルを追加してPushすることで追加する
 - 作業手順
 
@@ -21,5 +19,10 @@ githubのrepositoryを作成する
 pushする
 
 
-- 気を付けること
+## PullRequestテンプレートの練習
+### PullReqeestの追加
+- 作業手順
+
+
+
 
